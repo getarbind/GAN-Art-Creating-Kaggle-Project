@@ -11,3 +11,8 @@ This repository contains a notebook that demonstrates the conversion of photos i
 # Dataset
 
 The dataset used in this project is the Kaggle Monet paintings dataset, which consists of a collection of Monet-style paintings and photographies. The dataset contains a total of 300 Monet paintings and 7000+ photos (from which only 2500 were used to reduce the training time per epoch). Each image is of size 256 x 256 pixels.
+
+
+# Kaggale Submission
+
+https://www.kaggle.com/code/arbindksingh/notebook251e0f9d36/notebook?scriptVersionId=227808066
